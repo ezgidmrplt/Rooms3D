@@ -1,4 +1,4 @@
-# Rooms3D
+# Room3D
  
 Room3D, oyuncuların dikkat, matematik ve hafıza becerilerini test eden bir bulmaca oyunudur. Oyunun ana menüsünde üç seçenek bulunmaktadır: Play, Exit ve Information. Her bir seçenek ve oyun bölümleri hakkında detaylı bilgi aşağıda sunulmuştur.
 
